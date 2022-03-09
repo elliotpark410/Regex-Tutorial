@@ -134,7 +134,7 @@ Example DELETE: The API request below will delete note with id = "1"
 * [Insomnia](https://insomnia.rest/download) -->
 
 
-<br> -->
+<!-- <br> --> 
 
 
 <!-- ## Contribution Guidelines
