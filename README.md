@@ -1,35 +1,20 @@
 # Regex-Tutorial
-A tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does
-
-
-OLD README.MD. MUST UPDATE!
-
-# Professional Portfolio
-An updated portfolio with my recent projects to show my journey as a developer. Hope you enjoy it!
-
+A tutorial that explains how regular expression aka RegEx is used to validate email
 
 <br>
-
-
-## GIF of Portfolio
-
-<img src="Images\Professional Portfolio .gif" title="Professional Portfolio GIF" width = 800px>
-
-<br>
-
 
 ## Links
 
 
-[Elliot Park's Portfolio](https://elliotpark410.github.io/Professional-Portfolio-v3/)
+[RegEx Tutorial](https://gist.github.com/elliotpark410/f6b3f14d9e7f4990a602df414610c225)
 
 <br>
 
-[GIF of Portfolio](https://drive.google.com/file/d/1pQjKxEGZKyX-_fdghjZWsGpljqG6M2qb/view)
+[Github Gist Profile](https://gist.github.com/elliotpark410)
 
 <br>
 
-[Github Repository](https://github.com/elliotpark410/Professional-Portfolio-v3)
+[Github Repository](https://github.com/elliotpark410/Regex-Tutorial)
 
 <br>
 
@@ -133,7 +118,7 @@ Example DELETE: The API request below will delete note with id = "1"
 
 <br> -->
 
-
+<!-- 
 ## Technologies Used
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -149,7 +134,7 @@ Example DELETE: The API request below will delete note with id = "1"
 * [Insomnia](https://insomnia.rest/download) -->
 
 
-<br>
+<br> -->
 
 
 <!-- ## Contribution Guidelines
